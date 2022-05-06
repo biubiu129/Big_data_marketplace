@@ -1,8 +1,9 @@
-### Striking a new chord: Music Recommendation using Amazon Stack
-👩‍🎓👨‍🎓 Team Member: Archit Agawal, Sirui Jiang, Wenyi Wang, Yutong Liu, Viswanath Edunuri
+## Striking a new chord: Music Recommendation using Amazon Stack
+-----
 
-#### Project Introduction
-> Find Video Link: 
+
+### Project Introduction
+Find Video Link: 
 https://www.youtube.com/watch?v=-XfFkIkRHYE
 
 > Abstract
