@@ -8,7 +8,7 @@ Music recommendations are part of a Music streaming personalization strategy whe
 Big data plays an important role in enabling these recommendations for real-time playlists and advertising on these platforms. Such a model will cater to Music streaming companies and online songs recommendation platforms. Further, the project particulars are curated for data scientist, platform engineers and data engineers can at such firms looking to upgrade or understand migration to AWS.
 
 ## Data Resource
-over 10M+ ratings of musical artists which were given by the Yahoo! Music users, include three columns:
+The data we used is over 10M+ ratings of musical artists which were given by the Yahoo! Music users, include three columns:
 1. user_id
 2. artist_id
 3. rating_score
@@ -21,8 +21,9 @@ https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&guce_referrer=aHR0cHM6
 AWS S3, QuickSight, AWS DMS/Kinesis, EMR, Apache Spark
 
 ## Recommendation Engine Building Video
-Overview of the project: https://www.youtube.com/watch?v=vgsROeIWHX0
-Recommendation engine demo: https://www.youtube.com/watch?v=-XfFkIkRHYE
+> Overview of the project: https://www.youtube.com/watch?v=vgsROeIWHX0
+
+> Recommendation engine demo: https://www.youtube.com/watch?v=-XfFkIkRHYE
 
 
 
