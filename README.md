@@ -1,5 +1,5 @@
 ## Striking a new chord: Music Recommendation using Amazon Stack
------
+---
 
 
 ### Project Introduction
